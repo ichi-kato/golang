@@ -76,6 +76,11 @@ func main() {
 		memo string
 	}
 
+
+
+	//テキトーに変えていあ
+
+
 	defer func() {
 		err := recover()
 		if err != nil {
